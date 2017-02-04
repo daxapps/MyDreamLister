@@ -18,6 +18,7 @@
 		E02371191E46260300F98D26 /* Store.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02371181E46260300F98D26 /* Store.swift */; };
 		E023711B1E46261800F98D26 /* ItemType.swift in Sources */ = {isa = PBXBuildFile; fileRef = E023711A1E46261800F98D26 /* ItemType.swift */; };
 		E023711E1E462F7200F98D26 /* MaterialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E023711D1E462F7200F98D26 /* MaterialView.swift */; };
+		E02371201E4633EF00F98D26 /* ItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E023711F1E4633EF00F98D26 /* ItemCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		E02371181E46260300F98D26 /* Store.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Store.swift; sourceTree = "<group>"; };
 		E023711A1E46261800F98D26 /* ItemType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemType.swift; sourceTree = "<group>"; };
 		E023711D1E462F7200F98D26 /* MaterialView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaterialView.swift; sourceTree = "<group>"; };
+		E023711F1E4633EF00F98D26 /* ItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				E023711D1E462F7200F98D26 /* MaterialView.swift */,
+				E023711F1E4633EF00F98D26 /* ItemCell.swift */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 			files = (
 				E023711B1E46261800F98D26 /* ItemType.swift in Sources */,
 				E02371151E46252400F98D26 /* Item.swift in Sources */,
+				E02371201E4633EF00F98D26 /* ItemCell.swift in Sources */,
 				E02370EE1E461A4B00F98D26 /* MainVC.swift in Sources */,
 				E02370F41E461A4B00F98D26 /* MyDreamLister.xcdatamodeld in Sources */,
 				E02371191E46260300F98D26 /* Store.swift in Sources */,
